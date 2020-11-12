@@ -7,7 +7,7 @@ export ZSH=$HOME/.oh-my-zsh
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 ZSH_THEME="robbyrussell"
 
-ZSH_CUSTOM=$HOME/.dotfiles/zshrc
+ZSH_CUSTOM=$HOME/.dotfiles
 
 plugins=(git)
 
