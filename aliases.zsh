@@ -13,7 +13,6 @@ alias mf="php artisan migrate:fresh"
 alias mfs="php artisan migrate:fresh --seed"
 alias tinker="php artisan tinker"
 alias tink="php artisan tinker"
-alias test="php artisan test"
 
 # Laravel
 alias phpunit="vendor/bin/phpunit"
